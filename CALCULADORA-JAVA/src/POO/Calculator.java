@@ -65,7 +65,7 @@ public class Calculator {
             return lerNumero(scanner);
         }
     }
-    /*commentario */
+  
     static void imprimeCalculadora(int operation, double resultado, double x, double y){
         HashMap<Integer, String> mapOperation = new HashMap<>();
         mapOperation.put(1, " somado");

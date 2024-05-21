@@ -66,7 +66,6 @@ public class Calculator {
         }
     }
     
-    
     static void imprimeCalculadora(int operation, double resultado, double x, double y){
         HashMap<Integer, String> mapOperation = new HashMap<>();
         mapOperation.put(1, " somado");

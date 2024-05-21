@@ -1,5 +1,10 @@
 public class App {
+    /**
+     * @param args
+     * @throws Exception
+     */
     public static void main(String[] args) throws Exception {
-        System.out.println("Eita é nos!");
+        System.out.println("Eita e nos!Hugo");
+        
     }
 }
